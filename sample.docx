@@ -1,0 +1,11 @@
+This is the use of git branch command:
+
+we used -"git branch" to check the branches
+
+we used - "git checkout -b new_branch_name " to create a new branch and change the branch to it
+
+we used -"git checkout master_branch_name" to change between branches
+
+we will use git merge branch_name to merge the new breanch into the repo
+
+   
